@@ -1,0 +1,223 @@
+
+Officiell huvudstad	Övriga huvudstäder	Land/Stat
+A
+Abidjan	Yamoussoukro	Elfenbenskusten
+Abu Dhabi		Förenade Arabemiraten
+Abuja		Nigeria
+Accra		Ghana
+Addis Abeba		Etiopien
+Alger		Algeriet
+Amman		Jordanien
+Amsterdam	Haag	Nederländerna
+Andorra la Vella		Andorra
+Ankara		Turkiet
+Antananarivo		Madagaskar
+Apia		Samoa
+Asjchabad		Turkmenistan
+Asmara		Eritrea
+Astana		Kazakstan
+Asunción		Paraguay
+Aten		Grekland
+B
+Bagdad		Irak
+Baku		Azerbajdzjan
+Bamako		Mali
+Bandar Seri Begawan		Brunei
+Bangkok		Thailand
+Bangui		Centralafrikanska republiken
+Banjul		Gambia
+Basseterre		Saint Kitts och Nevis
+Beirut		Libanon
+Belgrad		Serbien
+Belmopan		Belize
+Berlin		Tyskland
+Bern		Schweiz
+Bisjkek		Kirgizistan
+Bissau		Guinea-Bissau
+Brasília		Brasilien
+Bratislava		Slovakien
+Brazzaville		Kongo-Brazzaville
+Bridgetown		Barbados
+Bryssel		Belgien
+Budapest		Ungern
+Buenos Aires		Argentina
+Bujumbura		Burundi
+Bukarest		Rumänien
+C
+Canberra		Australien
+Caracas		Venezuela
+Castries		Saint Lucia
+Chisinau		Moldavien
+Colombo	Sri Jayawardenapura	Sri Lanka
+Conakry		Guinea
+D
+Dakar		Senegal
+Damaskus		Syrien
+Dhaka		Bangladesh
+Dili		Östtimor
+Djibouti		Djibouti
+Dodoma	Dar es-Salaam	Tanzania
+Doha		Qatar
+Dublin		Irland
+Dusjanbe		Tadzjikistan
+F
+Fongafale		Tuvalu
+Freetown		Sierra Leone
+G
+Gaborone		Botswana
+Georgetown		Guyana
+Guatemala City		Guatemala
+H
+Hanoi		Vietnam
+Harare		Zimbabwe
+Havanna		Kuba
+Helsingfors		Finland
+Honiara		Salomonöarna
+I
+Islamabad		Pakistan
+J
+Jakarta		Indonesien
+Jerevan		Armenien
+Jerusalem		Israel
+K
+Kabul		Afghanistan
+Kairo		Egypten
+Kampala		Uganda
+Katmandu		Nepal
+Khartoum		Sudan
+Kiev		Ukraina
+Kigali		Rwanda
+Kingston		Jamaica
+Kingstown		Saint Vincent och Grenadinerna
+Kinshasa		Kongo-Kinshasa
+Kuala Lumpur		Malaysia
+Kuwait		Kuwait
+Köpenhamn		Danmark
+L
+Libreville		Gabon
+Lilongwe		Malawi
+Lima		Peru
+Lissabon		Portugal
+Ljubljana		Slovenien
+Lomé		Togo
+London		Storbritannien
+Luanda		Angola
+Lusaka		Zambia
+Luxemburg		Luxemburg
+M
+Madrid		Spanien
+Majuro		Marshallöarna
+Malabo		Ekvatorialguinea
+Male		Maldiverna
+Managua		Nicaragua
+Manama		Bahrain
+Manila		Filippinerna
+Maputo		Moçambique
+Maseru		Lesotho
+Mbabane		Swaziland
+Melekeok		Palau
+Mexico City		Mexiko
+Minsk		Vitryssland
+Mogadishu		Somalia
+Monaco		Monaco
+Monrovia		Liberia
+Montevideo		Uruguay
+Moroni		Komorerna
+Moskva		Ryssland
+Muskat		Oman
+N
+N'Djamena		Tchad
+Nairobi		Kenya
+Nassau		Bahamas
+Naypyidaw		Burma
+New Delhi		Indien
+Niamey		Niger
+Nicosia		Cypern
+Nouakchott		Mauretanien
+Nuku'alofa		Tonga
+Nuuk		Grönland
+O
+Oslo		Norge
+Ottawa		Kanada
+Ouagadougou		Burkina Faso
+P
+Palikir		Mikronesiska federationen
+Panama City		Panama
+Paramaribo		Surinam
+Paris		Frankrike
+Peking		Kina
+Phnom Penh		Kambodja
+Podgorica		Montenegro
+Port Louis		Mauritius
+Port Moresby		Papua Nya Guinea
+Port of Spain		Trinidad och Tobago
+Port-au-Prince		Haiti
+Porto-Novo	Cotonou	Benin
+Port Vila		Vanuatu
+Prag		Tjeckien
+Praia		Kap Verde
+Pretoria	Kapstaden, Bloemfontein	Sydafrika
+Pristina		Kosovo
+Pyongyang		Nordkorea
+Q
+Quito		Ecuador
+R
+Rabat		Marocko
+Reykjavik		Island
+Riga		Lettland
+Riyadh		Saudiarabien
+Rom		Italien
+Roseau		Dominica
+S
+Saint George's		Grenada
+Saint John's		Antigua och Barbuda
+San José		Costa Rica
+San Marino		San Marino
+San Salvador		El Salvador
+Sana		Jemen
+Santa Fé de Bogotá		Colombia
+Santiago de Chile		Chile
+Santo Domingo		Dominikanska republiken
+São Tomé		São Tomé och Príncipe
+Sarajevo		Bosnien och Hercegovina
+Seoul		Sydkorea
+Singapore		Singapore
+Skopje		Makedonien
+Sofia		Bulgarien
+Stockholm		Sverige
+Sucre	La Paz	Bolivia
+Suva		Fiji
+T
+Taipei		Taiwan
+Tallinn		Estland
+Tarawa		Kiribati
+Tasjkent		Uzbekistan
+Tbilisi		Georgien
+Tegucigalpa		Honduras
+Teheran		Iran
+Thimphu		Bhutan
+Tirana		Albanien
+Tokyo		Japan
+Torshamn		Färöarna
+Tripoli		Libyen
+Tunis		Tunisien
+U
+Ulaanbaatar		Mongoliet
+V
+Vaduz		Liechtenstein
+Valletta		Malta
+Vatikanstaden		Vatikanstaten
+Victoria		Seychellerna
+Vientiane		Laos
+Vilnius		Litauen
+W
+Warszawa		Polen
+Washington D.C.		USA
+Wellington		Nya Zeeland
+Wien		Österrike
+Windhoek		Namibia
+Y
+Yaoundé		Kamerun
+Saknar officiell huvudstad	Yaren	Nauru
+Z
+Zagreb		Kroatien
