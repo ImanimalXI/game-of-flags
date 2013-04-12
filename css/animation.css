@@ -1,0 +1,90 @@
+@-webkit-keyframes spin {
+    0% { -webkit-transform: rotate(0deg);}
+    100% { -webkit-transform: rotate(360deg);}
+}
+
+@-webkit-keyframes pulse {
+    0% {
+        -webkit-transform: scale(1);
+        }
+    15% {
+        -webkit-transform: scale(.8);
+        }
+    90% {
+        -webkit-transform: scale(1.1);
+        }
+
+    100% {
+        -webkit-transform: scale(1);
+        }
+}
+
+.pulse {
+    -webkit-animation: pulse 0.7s 1 linear;
+}
+
+.spin {
+    -webkit-animation: spin 0.5s 1 linear;
+}
+
+@-webkit-keyframes flip {
+    0% { -webkit-transform: rotateY(180deg);}
+    100% { -webkit-transform: rotate(0);}
+}
+
+.flip {
+    -webkit-animation: flip 0.3s 1 linear;
+    -webkit-transform-style: preserve-3d;
+}
+
+@-webkit-keyframes point {
+    0% {
+        left: 120px;
+        }
+    15% {
+        left: 140px;
+        }
+    90% {
+        left: 130px;
+        }
+
+    100% {
+        left: 120px;
+        }
+}
+
+.point {
+    -webkit-animation: point 0.7s 2 linear;
+}
+
+.rotate {
+
+}
+
+@-webkit-keyframes stripes {
+    0% {
+        background-size: 1000px 1000px, 1000px 100px, 400px 400px, 400px 400px;
+        background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;
+        }
+    50% {
+        background-size: 5px 5px, 3px 5px, 2px 3px, 3px 3px;
+        background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;
+    }
+    100% {
+        background-size: 1000px 1000px, 1000px 100px, 400px 400px, 400px 400px;
+        background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;
+    }
+}
+
+.stripes {
+    background-size: 1000px 1000px, 1000px 100px, 400px 400px, 400px 400px;
+    background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;
+    -webkit-animation: stripes 25s infinite linear;
+
+    background-image:
+        -webkit-linear-gradient(rgba(98,124,192,.1) 12px, transparent 2px),
+        -webkit-linear-gradient(0deg, rgba(98,124,192,.2) 2px, transparent 2px),
+        -webkit-linear-gradient(rgba(255, 255, 255, .3) 1px, transparent 1px),
+        -webkit-linear-gradient(0deg, rgba(255, 255, 255, .3) 1px, transparent 1px);
+}
+

@@ -1,0 +1,28 @@
+<div class="wrapper">
+    <img src="img/flags/<%=flag.replace(' ','_') %>.png" alt="" class="flag flip">
+</div>
+<div class="c nav">
+    <div class="block countries">
+        <span class="c1">___</span>
+        <% _.each(action, function(alt) { %>
+            <button class="button level1 c1 b2"><%= alt.flag%></button>
+        <% }); %>
+    </div>
+
+    <div class="block capitals">
+        <span class="c4"><%= LANG.capital%></span>
+        <% capital.shuffle() %>
+        <% _.each(capital, function(cap) { %>
+        <button class="button level2 c1 b3"><%= cap.capital%></button>
+        <% }); %>
+    </div>
+
+    <div class="block population">
+        <span class="c2"><%= LANG.question_population%></span>
+        <% population.shuffle() %>
+        <% _.each(population, function(pop) { %>
+        <button class="button level3 c1 b4" data-population='<%= pop.population%>'><%if (pop.population) {%><%=pop.population.addCommas(pop.population)%><%}%> </button>
+        <% }); %>
+    </div>
+
+</div>

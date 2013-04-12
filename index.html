@@ -1,37 +1,71 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <html>
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+<head>
+    <meta charset=utf-8 >
+    <title>Game of flags</title>
+    <link rel="stylesheet" href="css/positioning.css" />
+    <link rel="stylesheet" href="css/animation.css" />
+    <link rel="stylesheet" href="css/style.css" />
 
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
+    <!-- Metas -->
+    <meta http-equiv="cache-control" content="no-cache"/>
+    <meta http-equiv="pragma" content="no-cache"/>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta name="apple-touch-fullscreen" content="yes" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
+    <meta name="format-detection" content="telephone=no" />
 
-    <title>Game-of-flags by ImanimalXI</title>
-  </head>
+    <!-- App icons -->
+    <link rel="shortcut icon" href="/img/favicon.ico" />
+    <!--<link rel="apple-touch-startup-image" href="/img/ui/start.png" />-->
+    <link rel="apple-touch-startup-image" sizes="640x920" href="img/start@2x.png" />
 
-  <body>
+    <link rel="apple-touch-icon-precomposed" href="img/ui/home.png"/>
+    <link rel="apple-touch-icon-precomposed" href="img/ui/home_54.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/ui/home_72.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/ui/home_114.png" />
+</head>
 
-    <header>
-      <div class="container">
-        <h1>Game-of-flags</h1>
-        <h2>Game of flags</h2>
+<body class="c5 b1" ontouchmove="blockMove(event);">
+    <div id="content" class="">
 
-        <section id="downloads">
-          <a href="https://github.com/ImanimalXI/game-of-flags/zipball/master" class="btn">Download as .zip</a>
-          <a href="https://github.com/ImanimalXI/game-of-flags/tarball/master" class="btn">Download as .tar.gz</a>
-          <a href="https://github.com/ImanimalXI/game-of-flags" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-        </section>
-      </div>
-    </header>
-
-    <div class="container">
-      <section id="main_content">
-        <h3>Game of flags</h3>
-      </section>
     </div>
 
-    
-  </body>
+    <!-- JavaScript -->
+    <script src="js/lib/jquery-1.7.1.min.js"></script>
+    <script src="js/lib/underscore-min.js"></script>
+    <script src="js/lib/backbone-min.js"></script>
+    <script src="js/lib/backbone.localStorage-min.js"></script>
+
+    <script src="js/utils/misc.js"></script>
+
+    <!--Data-->
+    <script src="lang/se.js" id="lang"></script>
+
+    <!--Models-->
+    <script src="js/models/user.js"></script>
+    <script src="js/models/settings.js"></script>
+    <script src="js/models/game.js"></script>
+    <script src="js/models/question.js"></script>
+    <script src="js/models/country.js"></script>
+
+    <!--Views-->
+    <script src="js/views/footerVw.js"></script>
+    <script src="js/views/headerVw.js"></script>
+    <script src="js/views/countryVw.js"></script>
+    <script src="js/views/backgroundVw.js"></script>
+    <script src="js/views/homeVw.js"></script>
+    <script src="js/views/scoreVw.js"></script>
+    <script src="js/views/gameSettingsVw.js"></script>
+    <script src="js/views/aboutVw.js"></script>
+    <script src="js/views/questionVw.js"></script>
+    <script src="js/views/levelVw.js"></script>
+    <script src="js/views/settingsVw.js"></script>
+    <!--Main & Router-->
+    <script src="js/main.js"></script>
+
+</body>
 </html>
